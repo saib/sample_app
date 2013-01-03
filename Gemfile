@@ -23,7 +23,7 @@ group :assets do
   gem 'uglifier', '1.0.3'
 end
 
-gem 'jquery-rails', '2.0.2'
+gem 'jquery-rails'
 
 group :test do
 	gem 'capybara', '1.1.2'
